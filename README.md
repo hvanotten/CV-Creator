@@ -1,5 +1,7 @@
 # React Inline-Editable CV Generator
 
+Link to (Live)[https://hvanotten.github.io/CV-Creator/]
+
 ## Background and Overview
    I made this CV generator to practice using states, and to practice conditional rendering depending on variables with which the user can interact.
 
